@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding/atom.py=utf-8
+encoding/atom_clean.py=utf-8
+encoding/atom_download.py=utf-8
+encoding/atom_master.py=utf-8
+encoding/atom_worker.py=utf-8
+encoding/config.py=utf-8
+encoding/db.py=utf-8
+encoding/utils.py=utf-8
